@@ -1,0 +1,26 @@
+[
+  {
+    "id": "project-1",
+    "title": "OceanConnect",
+    "description": "LLM-powered natural language interface for querying NOAA oceanographic data, backed by a multi-relational MySQL schema with role-based access control.",
+    "tech": ["Python", "MySQL", "Docker", "Mistral", "Pytest", "ViTest"],
+    "github": null,
+    "live": null
+  },
+  {
+    "id": "project-2",
+    "title": "Job Tracker",
+    "description": "Parallel Python system monitoring 100+ job sites in under 2 minutes with change detection and real-time Discord notifications.",
+    "tech": ["Python", "Selenium", "BeautifulSoup", "Discord API"],
+    "github": null,
+    "live": null
+  },
+  {
+    "id": "project-3",
+    "title": "GenX Study Dashboard",
+    "description": "Interactive Streamlit dashboard for public health officials to explore toxicological research data.",
+    "tech": ["Python", "NumPy", "Pandas", "Streamlit", "Altair", "Plotly"],
+    "github": null,
+    "live": "https://genx-study-dashboard.streamlit.app/"
+  }
+]

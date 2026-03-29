@@ -1,0 +1,11 @@
+{
+  "Languages": ["Python", "Java", "C/C++", "Rust", "JavaScript", "Kotlin", "SQL", "HTML", "CSS", "x86 Assembly"],
+  "Frameworks": ["React.js", "Django", "Spring Boot", "Hibernate"],
+  "AI & Machine Learning": ["PyTorch", "TensorFlow", "NumPy", "Pandas", "SciPy"],
+  "Data & Visualization": ["Altair", "Plotly", "Matplotlib", "Seaborn", "Streamlit", "Jupyter Notebooks"],
+  "Databases": ["MySQL", "PostgreSQL"],
+  "Cloud & DevOps": ["Azure DevOps", "Azure", "Docker", "Jenkins", "Linux", "Bash"],
+  "Build Tools": ["Maven", "Makefiles", "JFrog Artifactory"],
+  "Testing & QA": ["JUnit", "Pytest", "Selenium", "SonarQube", "Veracode"],
+  "Developer Tools": ["Git", "GitHub", "Postman", "Figma", "GitHub Copilot"]
+}

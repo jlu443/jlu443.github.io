@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "ehax-2026-lost-land",
+    "ctf": "eHAX 2026",
+    "challenge": "Lost Land",
+    "category": "osint",
+    "date": "2026-02-27",
+    "summary": "Using geographic clues to identify a remote Australian railway stop with a population of 4.",
+    "tags": ["OSINT", "geolocation", "Australia"]
+  },
+  {
+    "slug": "ehax-2026-lost-biker",
+    "ctf": "eHAX 2026",
+    "challenge": "Lost Biker",
+    "category": "osint",
+    "date": "2026-02-27",
+    "summary": "Multi-platform OSINT trail from username discovery through steganography to hidden Reddit clues. Unsolved.",
+    "tags": ["OSINT", "steganography", "social media", "unsolved"]
+  },
+  {
+    "slug": "bitsctf-2026-radio-telescope",
+    "ctf": "BITSctf 2026",
+    "challenge": "Radio Telescope",
+    "category": "misc",
+    "date": "2026-02-20",
+    "summary": "Extracting stable numbers from noisy log data and converting them to ASCII to reveal the flag.",
+    "tags": ["misc", "data analysis", "Python", "ASCII"]
+  }
+]

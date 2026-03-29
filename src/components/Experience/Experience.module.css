@@ -1,0 +1,12 @@
+.section {
+  padding: var(--section-padding);
+}
+
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+.timeline {
+  max-width: 700px;
+}

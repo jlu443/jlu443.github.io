@@ -1,0 +1,116 @@
+[
+  {
+    "id": "exp-1",
+    "type": "work",
+    "role": "Junior Platform Engineer (MLOps)",
+    "organization": "MetLife",
+    "location": "Cary, NC",
+    "startDate": "Feb 2026",
+    "endDate": "Present",
+    "bullets": [
+      "Engineered a Python-based RAG pipeline to automate RCM label classification from IBM OpenPages, utilizing cosine similarity to deduplicate hyperlinks and semantically rank document-to-label vectors prior to LLM ingestion.",
+      "Trained and evaluated Hugging Face models to generate semantic embeddings, optimizing vector retrieval to feed relevant contextual data to an OpenAI GPT-5.4 model.",
+      "Designed prompt engineering and validation logic that outputs dynamic confidence scores for LLM-generated classifications, enabling automated self-assessment of model accuracy.",
+      "Leveraged GitHub Copilot across simultaneous ML and platform projects, enforcing strict security standards via Veracode and SonarQube."
+    ]
+  },
+  {
+    "id": "exp-2",
+    "type": "work",
+    "role": "AI/ML Research Assistant",
+    "organization": "NC State University | WISER Lab",
+    "location": "Raleigh, NC",
+    "startDate": "Jan 2025",
+    "endDate": "Jan 2026",
+    "bullets": [
+      "Executed ablation studies across XGBoost, LightGBM, LSTM, and Transformer architectures, validating differentiable surrogate loss functions for time-series forecasting.",
+      "Generated results demonstrating a 33–50% reduction in Peak MAE at 48-hour horizons, providing the empirical basis for the paper's core claims on optimization stability.",
+      "Conducted sensitivity analysis on gradient temperature and asymmetric risk parameters, quantifying the trade-off between forecast accuracy and operational safety.",
+      "Designed a modular Python evaluation framework to automate hyperparameter tuning and model versioning, ensuring 100% reproducibility across distributed HPC training runs."
+    ]
+  },
+  {
+    "id": "exp-3",
+    "type": "work",
+    "role": "Full Stack Development Intern",
+    "organization": "MyMatR",
+    "location": "Raleigh, NC (Remote)",
+    "startDate": "Sep 2025",
+    "endDate": "Dec 2025",
+    "bullets": [
+      "Optimized UI performance by troubleshooting frontend (React, Tailwind CSS) and backend (Django, Python) integration points, reducing page load time by 3 seconds.",
+      "Architected a scalable PostgreSQL database integrated with Django, enforcing data integrity through ORM constraints, model validations, and atomic transactions.",
+      "Managed project lifecycle and coordinated sprint goals using Huly, improving team alignment and resolving bottlenecks."
+    ]
+  },
+  {
+    "id": "exp-4",
+    "type": "work",
+    "role": "Undergraduate Teaching Assistant",
+    "organization": "NC State College of Engineering",
+    "location": "Raleigh, NC",
+    "startDate": "Aug 2025",
+    "endDate": "Dec 2025",
+    "bullets": [
+      "Led lab sessions and provided technical support for 50+ students in E298: Applied AI for Engineering, covering machine learning, deep learning, and AI applications.",
+      "Guided students in applying AI/ML concepts, Python, and OpenAI LLMs to solve real-world engineering challenges, improving project outcomes by an estimated third of a letter grade."
+    ]
+  },
+  {
+    "id": "exp-5",
+    "type": "work",
+    "role": "Full Stack Engineer Intern",
+    "organization": "MetLife",
+    "location": "Cary, NC",
+    "startDate": "Jun 2025",
+    "endDate": "Aug 2025",
+    "bullets": [
+      "Engineered features for a policy search portal using Azure AI Search, implementing semantic search that improved result relevance ranking by 15%.",
+      "Built a web scraping tool using Python, Power Automate, and Selenium to automate downloading of NAIC publications, speeding up downloads by 50%.",
+      "Deployed and managed search application components on Microsoft Azure, contributing to scalable cloud-native architecture.",
+      "Collaborated within an Agile Scrum team, translating user needs into technical specifications for data-driven features."
+    ]
+  },
+  {
+    "id": "exp-6",
+    "type": "work",
+    "role": "Data Visualization Intern",
+    "organization": "NC State Dept. of Toxicology",
+    "location": "Raleigh, NC",
+    "startDate": "May 2025",
+    "endDate": "Aug 2025",
+    "bullets": [
+      "Developed an interactive data dashboard using Python (NumPy, Pandas), CSS, and Streamlit for public health officials to interpret research findings.",
+      "Migrated from static Matplotlib charts to interactive Altair and Plotly visualizations, standardizing text to approximately a 7th-grade reading level.",
+      "Cleaned and validated raw toxicological data from multiple sources using Pandas, ensuring data integrity for the final dashboard.",
+      "Presented finalized data narratives to senior toxicologists, facilitating identification of regional pollutant trends for statewide public health recommendations."
+    ]
+  },
+  {
+    "id": "exp-7",
+    "type": "work",
+    "role": "Robotics Programmer",
+    "organization": "AquaPack Robotics",
+    "location": "Raleigh, NC",
+    "startDate": "Aug 2024",
+    "endDate": "Dec 2025",
+    "bullets": [
+      "Achieved a top 25 global finish (out of 100+ entrants) in the RoboSub competition by developing real-time movement and computer vision algorithms for an autonomous underwater robot.",
+      "Engineered a computer vision pipeline in Rust with ONNX models that improved autonomous object deployment accuracy by 25% during competitive trials."
+    ]
+  },
+  {
+    "id": "edu-1",
+    "type": "education",
+    "role": "B.S. Computer Science",
+    "organization": "North Carolina State University",
+    "location": "Raleigh, NC",
+    "startDate": "Aug 2022",
+    "endDate": "Dec 2025",
+    "bullets": [
+      "GPA: 3.70 | Certification: Security+",
+      "Activities: AI/ML Teaching Assistant, HackPack, AquaPack Robotics",
+      "Relevant Courses: C and Software Tools, Data Structures and Algorithms, DevOps, Python Applications, Operating Systems, Software Engineering, Software Security"
+    ]
+  }
+]
