@@ -25,6 +25,28 @@
   /* Transitions */
   --transition-fast: 200ms ease;
   --transition-medium: 400ms ease;
+
+  /* Border */
+  --border-subtle: rgba(255, 255, 255, 0.06);
+  --border-light: rgba(255, 255, 255, 0.1);
+
+  /* Navbar */
+  --navbar-bg: rgba(10, 10, 10, 0.85);
+}
+
+[data-theme="light"] {
+  --bg-primary: #f5f5f5;
+  --bg-secondary: #eaeaea;
+  --bg-card: #ffffff;
+  --text-primary: #1a1a1a;
+  --text-secondary: #555555;
+  --text-accent: #0097a7;
+  --accent: #0097a7;
+  --accent-dim: rgba(0, 151, 167, 0.12);
+  --accent-glow: 0 0 15px rgba(0, 151, 167, 0.2);
+  --border-subtle: rgba(0, 0, 0, 0.08);
+  --border-light: rgba(0, 0, 0, 0.12);
+  --navbar-bg: rgba(245, 245, 245, 0.85);
 }
 
 *,

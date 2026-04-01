@@ -1,7 +1,8 @@
 import { useState, useEffect } from 'react'
+import ThemeToggle from '../ThemeToggle/ThemeToggle.jsx'
 import styles from './Navbar.module.css'
 
-const sections = ['about', 'projects', 'skills', 'experience', 'publications', 'writeups', 'contact']
+const sections = ['about', 'projects', 'skills', 'experience', 'publications', 'writeups', 'blog', 'contact']
 
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false)
@@ -57,6 +58,7 @@ export default function Navbar() {
               {s}
             </button>
           ))}
+          <ThemeToggle />
         </div>
       </div>
     </nav>

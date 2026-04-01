@@ -1,0 +1,10 @@
+[
+  {
+    "slug": "til-docker-multi-stage-builds",
+    "title": "TIL: Docker Multi-Stage Builds Cut My Image Size by 80%",
+    "category": "devops",
+    "date": "2026-03-29",
+    "summary": "How switching to multi-stage builds dropped a Python ML service image from 2.1GB to 420MB, and the gotchas I ran into along the way.",
+    "tags": ["Docker", "DevOps", "Python", "optimization"]
+  }
+]

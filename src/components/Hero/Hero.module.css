@@ -92,7 +92,7 @@
   width: 44px;
   height: 44px;
   border-radius: 8px;
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: 1px solid var(--border-light);
   color: var(--text-secondary);
   transition: color var(--transition-fast), border-color var(--transition-fast), box-shadow var(--transition-fast);
 }
@@ -108,6 +108,30 @@
   width: 20px;
   height: 20px;
   fill: currentColor;
+}
+
+.resumeBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  color: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  padding: 0.5rem 1.25rem;
+  transition: background var(--transition-fast), box-shadow var(--transition-fast), color var(--transition-fast);
+}
+
+.resumeBtn:hover {
+  background: rgba(0, 229, 255, 0.1);
+  box-shadow: var(--accent-glow);
+  opacity: 1;
+}
+
+.resumeBtn svg {
+  width: 18px;
+  height: 18px;
 }
 
 .photoWrapper {

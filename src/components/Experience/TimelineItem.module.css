@@ -15,7 +15,7 @@
   top: 0;
   bottom: 0;
   width: 2px;
-  background: rgba(255, 255, 255, 0.08);
+  background: var(--border-light);
 }
 
 .item:last-child::before {
