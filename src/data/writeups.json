@@ -18,6 +18,15 @@
     "tags": ["OSINT", "steganography", "social media", "unsolved"]
   },
   {
+    "slug": "ritsec-2026-pork-lubber",
+    "ctf": "RITSEC 2026",
+    "challenge": "Pork Lubber",
+    "category": "misc",
+    "date": "2026-04-03",
+    "summary": "Using traceroute hop analysis and IP geolocation to identify the U.S. state assigned a specific subnet.",
+    "tags": ["misc", "networking", "IP geolocation", "traceroute"]
+  },
+  {
     "slug": "bitsctf-2026-radio-telescope",
     "ctf": "BITSctf 2026",
     "challenge": "Radio Telescope",
