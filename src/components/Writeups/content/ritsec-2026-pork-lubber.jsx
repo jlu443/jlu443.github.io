@@ -8,7 +8,15 @@ export default function Ritsec2026PorkLubber() {
         Only 5 attempts are allowed, so brute forcing all 50 states directly is risky.
       </p>
 
-      <h2>Approach</h2>
+      <h2>Approach 1: Brute Force (Against the Rules)</h2>
+      <p>
+        With only 5 attempts allowed and 50 possible state abbreviations, brute forcing on a single account
+        is not viable. However, by creating multiple accounts, each with 5 attempts, it was possible to
+        systematically try every state abbreviation until hitting the correct flag. This did work, but it
+        violates the spirit of the challenge and would likely be considered against the rules.
+      </p>
+
+      <h2>Approach 2: Traceroute Analysis (Intended)</h2>
       <p>
         The IP address <code>44.30.122.69</code> falls in the <strong>44.0.0.0/8</strong> block, historically
         allocated to amateur radio operators (callsign prefix N4) by ARRL. Standard IP lookup tools often show
