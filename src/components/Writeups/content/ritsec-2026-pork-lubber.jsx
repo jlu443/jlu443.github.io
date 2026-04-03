@@ -29,6 +29,7 @@ export default function Ritsec2026PorkLubber() {
         showed 30 hops max, with most of the later ones timing out. The key is to focus on the <em>last
         responding hops</em> before the timeouts, since those are geographically closest to the destination.
       </p>
+      <img src="/images/pork-lubber-traceroute.png" alt="Traceroute output for 44.30.122.69 showing hops through NC, GA, and VA" style={{ maxWidth: '100%', borderRadius: '8px', margin: '1rem 0' }} />
       <p>Notable hops from the output:</p>
       <ul>
         <li><strong>Hops 1-5:</strong> NCSU private network (<code>10.x.x.x</code>, <code>ncstate.net</code>) -- ignored, internal infrastructure</li>
