@@ -52,7 +52,7 @@ export default function Hero() {
               </svg>
             </a>
             <a
-              href="/resume.pdf"
+              href="/(Jason Lu) Resume 2026 v7 (After Grad).pdf"
               className={styles.resumeBtn}
               download
               aria-label="Download resume"
