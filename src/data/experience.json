@@ -8,10 +8,10 @@
     "startDate": "Feb 2026",
     "endDate": "Present",
     "bullets": [
-      "Engineered a Python-based RAG pipeline to automate RCM label classification from IBM OpenPages, utilizing cosine similarity to deduplicate hyperlinks and semantically rank document-to-label vectors prior to LLM ingestion.",
-      "Trained and evaluated Hugging Face models to generate semantic embeddings, optimizing vector retrieval to feed relevant contextual data to an OpenAI GPT-5.4 model.",
-      "Designed prompt engineering and validation logic that outputs dynamic confidence scores for LLM-generated classifications, enabling automated self-assessment of model accuracy.",
-      "Leveraged GitHub Copilot across simultaneous ML and platform projects, enforcing strict security standards via Veracode and SonarQube."
+      "Engineered an automated Python data pipeline to ingest and process unstructured text from IBM OpenPages, implementing advanced NLP preprocessing (tokenization, regex parsing, and text normalization) to convert raw regulatory data into structured feature vectors for RCM classification.",
+      "Trained and evaluated Hugging Face models to generate accurate semantic embeddings, operationalizing the Python data pipeline as an Azure Machine Learning (AML) Studio endpoint to stream contextual data to an OpenAI model.",
+      "Architected and deployed scalable Azure cloud infrastructure using Terraform IaC, contributing to internal open-source development models (InnerSource) to deliver reusable infrastructure modules across collaborative engineering teams.",
+      "Designed and optimized robust CI/CD pipelines in Azure DevOps, integrating automated Veracode and SonarQube static analysis to enforce strict security guardrails and enhance overall code quality across platform components."
     ]
   },
   {
@@ -23,10 +23,10 @@
     "startDate": "Jan 2025",
     "endDate": "Jan 2026",
     "bullets": [
-      "Executed ablation studies across XGBoost, LightGBM, LSTM, and Transformer architectures, validating differentiable surrogate loss functions for time-series forecasting.",
-      "Generated results demonstrating a 33–50% reduction in Peak MAE at 48-hour horizons, providing the empirical basis for the paper's core claims on optimization stability.",
-      "Conducted sensitivity analysis on gradient temperature and asymmetric risk parameters, quantifying the trade-off between forecast accuracy and operational safety.",
-      "Designed a modular Python evaluation framework to automate hyperparameter tuning and model versioning, ensuring 100% reproducibility across distributed HPC training runs."
+      "Executed comprehensive ablation studies across XGBoost, LightGBM, LSTM, and Transformer architectures, validating the stability of differentiable surrogate loss functions for time-series forecasting.",
+      "Generated critical experimental results demonstrating a 33–50% reduction in Peak Mean Absolute Error (MAE) at 48-hour horizons, providing the empirical basis for the paper's core claims on optimization stability.",
+      "Quantified trade-offs between predictive accuracy and operational safety via sensitivity analysis on asymmetric risk parameters, mitigating underprediction bias in critical risk-forecasting models.",
+      "Designed a modular Python-based evaluation framework to automate hyperparameter tuning and model versioning, ensuring 100% reproducibility across distributed training runs on NCSU's high-performance computing (HPC) cluster."
     ]
   },
   {
@@ -35,12 +35,13 @@
     "role": "Full Stack Development Intern",
     "organization": "MyMatR",
     "location": "Raleigh, NC (Remote)",
-    "startDate": "Sep 2025",
+    "startDate": "Aug 2025",
     "endDate": "Dec 2025",
     "bullets": [
-      "Optimized UI performance by troubleshooting frontend (React, Tailwind CSS) and backend (Django, Python) integration points, reducing page load time by 3 seconds.",
-      "Architected a scalable PostgreSQL database integrated with Django, enforcing data integrity through ORM constraints, model validations, and atomic transactions.",
-      "Managed project lifecycle and coordinated sprint goals using Huly, improving team alignment and resolving bottlenecks."
+      "Optimized full-stack performance by systematically troubleshooting integration bottlenecks between React frontends and Django backends, reducing page load latency by 3 seconds.",
+      "Architected a scalable PostgreSQL database and Django REST API ecosystem, enforcing data integrity through advanced ORM constraints, validations, and atomic transactions to streamline data flows.",
+      "Formulated a comprehensive test automation framework by authoring backend unit tests with pytest and frontend integration tests for React components, establishing rigorous quality gates to prevent regression defects.",
+      "Utilized Git and GitHub for version control, actively participating in team code reviews, pull request workflows, and continuous integration practices to maintain codebase stability."
     ]
   },
   {
@@ -65,10 +66,10 @@
     "startDate": "Jun 2025",
     "endDate": "Aug 2025",
     "bullets": [
-      "Engineered features for a policy search portal using Azure AI Search, implementing semantic search that improved result relevance ranking by 15%.",
-      "Built a web scraping tool using Python, Power Automate, and Selenium to automate downloading of NAIC publications, speeding up downloads by 50%.",
-      "Deployed and managed search application components on Microsoft Azure, contributing to scalable cloud-native architecture.",
-      "Collaborated within an Agile Scrum team, translating user needs into technical specifications for data-driven features."
+      "Engineered features for a policy search portal using Azure AI Search, implementing semantic search capabilities that improved result relevance ranking by 15% compared to keyword-based baselines.",
+      "Developed an automated web scraping solution using Python and Selenium to navigate complex government portals, reliably extracting and downloading critical regulatory documents for internal processing.",
+      "Deployed and managed search application components on Microsoft Azure, gaining hands-on experience with cloud-native data services and scalable architecture patterns.",
+      "Collaborated within an Agile Scrum team to refine product requirements, translating user needs into technical specifications for data-driven features."
     ]
   },
   {
