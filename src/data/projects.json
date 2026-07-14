@@ -12,7 +12,7 @@
     "title": "Job Tracker",
     "description": "Parallel Python system monitoring 100+ job sites in under 2 minutes with change detection and real-time Discord notifications.",
     "tech": ["Python", "Selenium", "BeautifulSoup", "Discord API"],
-    "github": null,
+    "github": "https://github.com/jlu443/Job-Tracker-V2/actions",
     "live": null
   },
   {
