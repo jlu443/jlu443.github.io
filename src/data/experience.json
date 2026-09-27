@@ -1,17 +1,32 @@
 [
   {
+    "id": "exp-0",
+    "type": "work",
+    "role": "Security Engineer",
+    "organization": "Cisco",
+    "location": "Raleigh, NC",
+    "startDate": "Oct 2026",
+    "endDate": "Present",
+    "bullets": [
+      "Architected and scaled automated CI/CD pipelines using GitHub Actions and reusable workflow templates, cutting deployment friction and improving pipeline reliability and build throughput across engineering teams.",
+      "Embedded end-to-end security guardrails through SAST, DAST, container vulnerability scanning, and software supply chain dependency checks into active delivery lifecycles to block critical flaws prior to production.",
+      "Integrated AI-enabled code analysis and triage tools to automate vulnerability prioritization and workflow routing, reducing false positives and accelerating mean time to remediate (MTTR).",
+      "Partnered with platform and software engineering squads as a dedicated technical security resource, establishing automated compliance checks against Cisco security baselines and continuously monitoring pipeline telemetry."
+    ]
+  },
+  {
     "id": "exp-1",
     "type": "work",
     "role": "Junior Platform Engineer (MLOps)",
     "organization": "MetLife",
-    "location": "Cary, NC",
+    "location": "Raleigh, NC",
     "startDate": "Feb 2026",
-    "endDate": "Present",
+    "endDate": "Oct 2026",
     "bullets": [
       "Engineered an automated Python data pipeline to ingest and process unstructured text from IBM OpenPages, implementing advanced NLP preprocessing (tokenization, regex parsing, and text normalization) to convert raw regulatory data into structured feature vectors for RCM classification.",
       "Trained and evaluated Hugging Face models to generate accurate semantic embeddings, operationalizing the Python data pipeline as an Azure Machine Learning (AML) Studio endpoint to stream contextual data to an OpenAI model.",
       "Architected and deployed scalable Azure cloud infrastructure using Terraform IaC, contributing to internal open-source development models (InnerSource) to deliver reusable infrastructure modules across collaborative engineering teams.",
-      "Designed and optimized robust CI/CD pipelines in Azure DevOps, integrating automated Veracode and SonarQube static analysis to enforce strict security guardrails and enhance overall code quality across platform components."
+      "Containerized local SQL database environments using Docker and Rancher Desktop, establishing isolated, compliant testing sandboxes that adhere to strict enterprise data privacy and governance standards."
     ]
   },
   {

@@ -11,11 +11,11 @@ export default function Hero() {
           <p className={styles.greeting}>Hi, my name is</p>
           <h1 className={styles.name}>Jason<span>.</span></h1>
           <p className={styles.title}>
-            MLOps & Platform Engineer<span className={styles.cursor} />
+            Security Engineer<span className={styles.cursor} />
           </p>
           <p className={styles.intro}>
-            I'm a CS graduate from NC State building MLOps pipelines and platform
-            infrastructure at MetLife. I specialize in DevOps workflows, AI/ML
+            I'm a CS graduate from NC State securing CI/CD pipelines and software
+            supply chains at Cisco. I specialize in DevSecOps workflows, AI/ML
             solutions, and scalable full-stack systems.
           </p>
           <div className={styles.socials}>
