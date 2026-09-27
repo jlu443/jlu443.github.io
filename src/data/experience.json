@@ -81,9 +81,8 @@
     "startDate": "Jun 2025",
     "endDate": "Aug 2025",
     "bullets": [
-      "Engineered features for a policy search portal using Azure AI Search, implementing semantic search capabilities that improved result relevance ranking by 15% compared to keyword-based baselines.",
+      "Engineered Java features for a policy search portal using Azure AI Search, implementing semantic search capabilities that improved result relevance ranking by 15% compared to keyword-based baselines.",
       "Developed an automated web scraping solution using Python and Selenium to navigate complex government portals, reliably extracting and downloading critical regulatory documents for internal processing.",
-      "Deployed and managed search application components on Microsoft Azure, gaining hands-on experience with cloud-native data services and scalable architecture patterns.",
       "Collaborated within an Agile Scrum team to refine product requirements, translating user needs into technical specifications for data-driven features."
     ]
   },
